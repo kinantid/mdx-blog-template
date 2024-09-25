@@ -4,6 +4,14 @@ function Header() {
      <a href="/" className="font-medium text-xl" >Blog</a>
       <div>
         <a
+          href="https://github.com/kinantid/mdx-blog-result"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mr-4 text-blue-500"
+        >
+          Final code on Github
+        </a>
+        <a
           href="https://app.sli.do/event/cAiLkBeQX29y332GUWsfj7"
           target="_blank"
           rel="noopener noreferrer"
